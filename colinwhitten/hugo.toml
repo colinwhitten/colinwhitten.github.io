@@ -1,0 +1,4 @@
+baseURL = 'https://colinwhitten.github.io/'
+locale = 'en-us'
+title = 'Colins Site'
+theme='hugo-theme-chicago7'
