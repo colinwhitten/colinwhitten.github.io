@@ -1,5 +1,16 @@
 baseURL = 'https://colinwhitten.github.io/'
 locale = 'en-us'
 title = 'Colin Whittens Bibliography'
-theme='hugo-theme-chicago7'
-contentDir = 'content'
+theme='shibui'
+contentdir = 'content'
+
+[markup]
+[markup.highlight]
+style = "bw"
+
+
+[[menu.header]]
+name = "posts"
+url = "posts/"
+weight = 30
+

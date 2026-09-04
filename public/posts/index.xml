@@ -1,24 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Posts on Colin Whittens Bibliography</title>
+		<title>Bibliography on Colin Whittens Bibliography</title>
 		<link>http://localhost:1313/posts/</link>
-		<description>Recent content in Posts on Colin Whittens Bibliography</description>
+		<description>Recent content in Bibliography on Colin Whittens Bibliography</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
 		
 		
 		
-			<lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 04 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>First post!</title>
+				<title>Been Down So Long It Looks Like Up To Me</title>
+				<link>http://localhost:1313/posts/beendownsolongitlookslikeuptome/</link>
+				<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/beendownsolongitlookslikeuptome/</guid>
+				<description>&lt;p&gt;Been Down So Long it Looks Like Up to Me, by Richard Farina&lt;/p&gt;&#xA;&lt;p&gt;Gnossos Pappadapoulis’ central conflict is that he is desperately in search of something sincere and real, but reality has been so shitty and terrified him to the point of retreating into hedonism; he uses drugs and postures a detached coolness as a means by which he can extract himself from a grim and confusing reality. There’s a lot about this vague search for meaning through exemption while also pushing back against conservatism, somewhat. Hedonism as a sort of vague form of protest: where have we seen this before?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Kairos, Age Gap Relationships and Bad Weather</title>
+				<link>http://localhost:1313/posts/kairos/</link>
+				<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/kairos/</guid>
+				<description>&lt;p&gt;Kairos by Jenny Erpenbeck&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;I’d love to skip this one. Book sucked in my opinion. Jenny Erpenbeck has got a fucked up sense of humor because why was the ideal vessel for exploring post-reunification life in Berlin a relationship between a man who is something like fifty-four and a nineteen year old girl? I understand that their relationship is a metaphor for having completely different understandings and feelings of nostalgia for the East Germany you grew up in; a sixty year old man and a teenage girl would totally experience newly reunified Berlin differently if they both experienced coming-of-age in East Berlin, but during completely different times of their lives. &#xA;&#xA;&#xA;Something to think about: how would we feel about Communist architecture if the Bolshevik revolution had happened in a place with Awesome Weather? It’s easy for me to remember what I’ve been told by people who had ever visited former East Berlin because they all say the same thing: they all report that it was gray! No fucking shit! If you visited Berlin at any time other than between June and August, then it was gray. It’s a place that’s really sore on the eyes, but I wouldn’t necessarily say it’s because of some fatal flaw in affordable and efficient housing blocks.&#xA;&#xA;&#xA;Otherwise this is a book that is very generally about an affair which plays out during the end of an era and beginning of a new one. The State decays and ages poorly as their affair, decays and ages poorly. There is another theme that I find a little more interesting which is one that runs contrary to the sort of mainstream historical perspective of East Berlin being dull, gray, and lifeless (loveless?). More thoughts on gray as well. East Berlin was communist, had soviet architecture, and was therefore cold and lifeless. And this book centers that setting as a place where a love affair blossoms. Something to think about: I remember early last year in 2025 when we Americans were having a collective freakout about the fact that our country is now Fascist, and we can’t ignore the fact that it’s Fascist anymore: how did this happen, and what do we do!? We will have inappropriate age-gap relationships and affairs. We will fall in love in disgusting and offensive ways. We will also fall in love in appropriate ways! We’ll kind of do the same thing we were doing two years ago, or twenty years ago, or in 1990 in Berlin. &#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+			</item>
+			<item>
+				<title>Vineland</title>
 				<link>http://localhost:1313/posts/vineland/</link>
-				<pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+				<pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/posts/vineland/</guid>
-				<description>&lt;p&gt;This is my first post, how exciting!&lt;/p&gt;</description>
+				<description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vineland, by Thomas Pynchon&lt;/p&gt;&#xA;&lt;p&gt;Like any other Pynchon book, especially reading for the first time, you’re supposed to let yourself get lost, though this is apparently one of his most accessible works, or maybe even Pynchon-lite. Nevertheless I might not even be keen enough to get a grip on Pynchon-lite as I was still almost completely lost.&lt;/p&gt;&#xA;&lt;p&gt;Though it was published in 1990 it’s still extremely prescient, clearly. It’s very broadly about the free spirits of the 60s helplessly watching America march forward into the 80s as if in the blink of an eye, and contending with the fact that their project failed. What is it about this cultural moment? Why do we hear more from the people of 60s counterculture than seemingly any American generation? It’s probably one of the most run-through tropes, these geezers who smoked pot, went to Woodstock, and protested the Vietnam War&amp;hellip; they lost; and we will never hear the end of it. It’s as if they kind of gave it their all in trying out this Great Society experiment and never got over the trauma of seeing the fascistic repression of the Nixon years play out. This is also a book that is very broadly about a repressive police state. I think it goes without saying that the police state we live in, even before the last two years, probably outdoes Pynchon’s worst imaginations when writing Brock Vond and his goons in Vineland.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
