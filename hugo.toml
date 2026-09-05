@@ -9,8 +9,10 @@ contentdir = 'content'
 style = "bw"
 
 
-[[menu.header]]
-name = "posts"
-url = "posts/"
-weight = 30
+[menu]
+  [[menu.main]]
+    name = "posts"
+    url = "/posts/"
+    weight = 1
+
 
