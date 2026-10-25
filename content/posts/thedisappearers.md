@@ -1,7 +1,7 @@
 +++
 author = "Colin Whitten"
 title = "The Disappearers"
-date = "2026-10-26"
+date = "2026-10-25"
 description = "the disappearers by marlon james"
 +++
 
