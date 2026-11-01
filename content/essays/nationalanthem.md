@@ -1,7 +1,7 @@
 +++
 author = "Colin Whitten"
 title = "we all need a new national anthem"
-date = "2026-11-1"
+date = "2026-11-01"
 +++
 
 
