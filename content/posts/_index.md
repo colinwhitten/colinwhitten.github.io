@@ -1,3 +1,0 @@
-+++
-title = "Colin's Site"
-+++

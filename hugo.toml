@@ -11,8 +11,12 @@ style = "bw"
 
 [menu]
   [[menu.main]]
-    name = "posts"
-    url = "/posts/"
+    name = "autobibliography"
+    url = "/bib/"
+    weight = 1
+  [[menu.main]]
+    name = "essays"
+    url = "/essays/"
     weight = 1
 
 
