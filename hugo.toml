@@ -1,6 +1,6 @@
 baseURL = 'https://colinwhitten.github.io/'
 locale = 'en-us'
-title = 'Colin Whitten's Website'
+title = "Colin Whitten's Website"
 theme='shibui'
 contentdir = 'content'
 
