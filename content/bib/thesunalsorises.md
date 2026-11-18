@@ -1,0 +1,16 @@
++++
+author = "Colin Whitten"
+title = "the sun also rises: a show about nothing"
+date = "2026-11-18"
+description = "the sun also rises"
++++
+
+The Sun Also Rises is a novel about the Lost Generation; that part he makes pretty explicit, placing a Gertrude Stein quote “You are all a lost generation” in the Epigraph, along with a quote from *Ecclesiastes*: “One generation passeth away, and another generation cometh; but the earth abideth forever…”.
+
+The Lost Generation is used to refer largely to a the demographic cohort that came of age in the 1900s and 1910s, fought in or were greatly affected by World War I, and were defined by a “disoriented, wandering, directionless spirit.” American expatriate writers living in Paris in the 1920s is also very often referenced when invoking the Lost Generation. I’m going to resist the urge to make any hack comparisons to any contemporary generations- millennials, Gen Z, or otherwise: it’d be hack, and I don’t think it’s a very compelling argument.
+
+The narrator and moral center of The Sun Also Rises is Jake Barnes; a veteran of World War I who was badly wounded and left impotent as a result of his injury. He, unlike his expatriate peers, has a JOB. Much of the book is Jake with his band of merry expats galivanting around Paris and Spain, drinking a lot, getting into arguments, and sleeping around on each other. Remember, Jake is sexually frustrated; this has an adverse effect on his relationship with the love interest Lady Brett Ashley, who sort of just pursues many other men seemingly right in front of Jake?!
+
+On the surface this is a novel where nothing really happens. The interactions between Jake, Lady Brett, Robert Cohn, and Mike are at times stilted and unnatural, and their lifestyles are depicted as being vapid and directionless. Below the surface, there is also nothing! They drink, cheat, and fuck their way around Europe and the Big Void hanging over them never disappears! Why is there a Big Void? I think what big Ernest is getting at here with the lost generation is that they had all been raised on “old world” values, whatever that means, only for all the men to be shipped off to an industrialized war that turned men into meat. The lost generation was considered to be disillusioned, decadent, and irrevocably damaged by the war, but Ernest is arguing that they were a resilient bunch, doing the best they could to find reasons to keep going without much of a sense of meaning or purpose in a world that had lost its innocence.
+
+Jake-- remember that he is the one that actually went and fought in the Great War, got hurt, and, unlike the rest of his crew, actually works for a living, seems to have a better understanding of the world around him and recognizes their existence for what it is; lives which have lost meaning, distracting themselves through drink and sex, and Jake kind of just accepts it and doesn’t try to force any change or even hope for it. At the end, he and Brett have a conversation in which they come to terms with the fact that things will never work out for the two of them, and Jake decides that he will continue loving her because loving her is worth doing for its own sake. And they kind of continue this grand march towards nothing.
